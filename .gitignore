@@ -1,0 +1,7 @@
+# Jetbrains config dir
+.idea/
+# Venv
+venv/
+# Pyinstaller
+app.exe
+app.spec
